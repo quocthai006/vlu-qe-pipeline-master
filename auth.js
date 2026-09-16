@@ -1,5 +1,5 @@
 function login(username, password) {
-  // Tài khoản hợp lệ mặc định
+  // Tài khoản hợp lệ mặc định abc
   if (username === 'admin' && password === '123') {
     return true;
   }
